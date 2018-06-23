@@ -2,4 +2,5 @@
 <br><img src="https://image.ibb.co/eT2w0R/delete.png" alt="agenda" width=450 height=500 />
 
 Video de la charla:
+
 [![Watch the video](http://www.innovarioja.tv/images/mask/1792.jpg)](http://videos.innovarioja.tv/pseudo/video/cms/2017_12_14_Net_Core_20_Carlos_Landeras.mp4)
